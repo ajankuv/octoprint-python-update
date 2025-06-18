@@ -54,7 +54,7 @@ If you encounter any issues, you can:
 
 ## Troubleshooting
 
-- If you cannot log in after the upgrade, reset your OctoPrint password using the CLI.
+- If you cannot log in after the upgrade, reset your OctoPrint password using the CLI. Then reboot the system.
 - If a plugin fails to reinstall, you can reinstall it manually via the OctoPrint web interface.
 - Use `systemctl status octoprint` to check service status.
 
